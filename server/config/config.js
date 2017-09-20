@@ -7,7 +7,7 @@ module.exports = {
     uri: 'mongodb://zmurta:cen3031@ds139884.mlab.com:39884/bootcamp-4', //place the URI of your mongo database here.
   }, 
   googleMaps: {
-    key: 'AIzaSyBxHNz7wVu7ejKtDOZyZf81uPNmPqdXe3Q'
+    key: 'AIzaSyCcGWcfEnIQYzM4i5NIQZxIFy7QRn653AI'
   },
   port: process.env.PORT || 8080
 };
